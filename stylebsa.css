@@ -1,0 +1,109 @@
+.navbar-brand img {
+
+   width: 190px;
+}
+
+* {
+   background-color: #fafaed;
+}
+
+body {
+
+   font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+
+}
+
+.container-fluid {
+   background-color: #fafaed;
+}
+
+.d-flex {
+   text-align: justify;
+}
+
+.card {
+
+   border: 0;
+}
+
+.card .btn {
+
+   background-color: #f26f21;
+   color: #ffff;
+}
+
+.card h5 {
+   color: #f26f21;
+}
+
+.content-text {
+
+   color: #f26f21;
+   font-weight: 300;
+
+   font-style: normal;
+   font-size: 20px;
+   line-height: 1.4;
+
+}
+
+
+.hr-theme-slash-2 {
+   display: flex;
+   margin-top: 2rem;
+   justify-content: center;
+   
+
+}
+
+.hr-line {
+   width: 100%;
+   position: relative;
+   margin: 70px;
+   border-bottom: 1px solid #f26f21;
+   margin-left: 6rem;
+
+
+}
+
+/* .hr-icon {
+     position: relative;
+     top: 3px;
+     color: #ff0000;
+   } */
+/* .hr-text{
+      color: #f26f21;
+      font-size: large;
+      font-weight: 300;
+      margin-top:3rem;
+      position: absolute !important;
+   
+     
+      
+    
+
+   }
+    */
+.text-center {
+   color: #f26f21;
+   font-size: x-large;
+   font-weight: 300;
+   margin-top: 3rem;
+   position: absolute !important;
+   justify-content: center !important;
+}
+footer .col-12{
+   text-align: center;
+
+}
+
+footer h4{
+
+   background-color: #e5567d;
+
+   
+}
+
+footer p{
+   background-color: #f26f21;
+}
